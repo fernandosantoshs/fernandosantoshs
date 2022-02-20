@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p>
-- 🔥 I'm a developer student and everyday more passionate about coding !
+- 🔥 I'm a developer student and everyday more passionate about coding.
 
-- 🔭 I’m currently not working, i'm porsuiting my goal to become an entry-level developer. So, basically i'm studying and practicing front-end and back-end skills as i look for my first opportunity in this career.
+- 🔭 I’m currently not working, i'm porsuiting my goal to become an entry-level developer. So, basically i'm studying and practicing front-end and back-end skills as i look for my first opportunity in this career. My goal after that, is to become a back-end specialist.
 
 - 👨‍💻 I'm currently learning my code skills mainly with <a href="https://rocketseat.com.br" target="_blank">RocketSeat</a>, <a href="https://medium.com" target="_blank">Medium</a> articles and good Youtube channels. 
 
@@ -61,17 +61,3 @@ Here are some ideas to get you started:
 </a>
 
 </p>
-
-
-<!--
-**maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
