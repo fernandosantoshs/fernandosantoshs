@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 <p>
 
-  - 🗺️ I'm from RECIFE ☀️
-  
   - 🔥 I'm a developer student and everyday more passionate about coding.
+  
+  - 🗺️ I'm from RECIFE ☀️  
 
 - 🔭 I’m currently not working, i'm porsuiting my goal to become an entry-level developer. So, basically i'm studying and practicing front-end and back-end skills as i look for my first opportunity in this career. My goal after that, is to become a back-end specialist.
 
