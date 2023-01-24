@@ -24,12 +24,12 @@ Here are some ideas to get you started:
 
 - 👨‍💻 I'm currently learning my code skills mainly with <a href="https://rocketseat.com.br" target="_blank">RocketSeat</a>, <a href="https://medium.com" target="_blank">Medium</a> articles and good Youtube channels. 
 
-- ▶️ I'm a ex-DBA (Database Administrator), and before that, i worked as Support Analyst too.
+- ▶️ ex-DBA (Database Administrator), and before that, i worked as Support Analyst too.
 
 - ⚡ Fun facts : 
   - I have 2 dogs, 6 cats and nearly 50+ 🌱 plants
   - NBA fan 🏀
-  - I love motorcycles 🏍️ and Bikes 🚴‍♂️
+  - love motorcycles 🏍️ and Bikes 🚴‍♂️
  </p>
 <br><br>
 
