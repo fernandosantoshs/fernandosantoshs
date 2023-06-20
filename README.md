@@ -26,10 +26,11 @@ Here are some ideas to get you started:
 
 - ▶️ ex-DBA (Database Administrator), and before that, i worked as Support Analyst too.
 
-- ⚡ Fun facts : 
+- ⚡ Some facts about me : 
   - I have 2 dogs, 6 cats and nearly 50+ 🌱 plants
   - NBA fan 🏀
-  - love motorcycles 🏍️ and Bikes 🚴‍♂️
+  - Love motorcycles 🏍️ and Bikes 🚴‍♂️
+  - Also watch a lot of animes in my free time
  </p>
 <br><br>
 
