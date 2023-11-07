@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-  - 🔥 I'm a trainee backend developer, improving my skills everyday
+  - 🔥 I'm a backend developer, improving my skills everyday
   
   - 🗺️ I'm from RECIFE ☀️  
 
